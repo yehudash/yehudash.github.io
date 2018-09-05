@@ -27,16 +27,15 @@ header.startup {
 }
 
 header.startup hr {
-  margin-top: 220px;
+  margin-top: 200px;
   margin-bottom: 30px; 
 }
 
 header.startup h1 {
-  font-size: 3rem; 
+  font-size: 2rem; 
 }
 
 .btn {
-  font-size: 1.5rem;
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
